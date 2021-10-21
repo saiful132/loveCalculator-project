@@ -1,0 +1,62 @@
+body{
+    background:url("LOVE.jpg"); 
+    background-size:cover;
+}
+
+
+input {
+    padding: 10px;
+    outline: none;
+    border: 1px solid blue;
+    border-radius: 12px;
+}
+label {
+    font-size: 20px;
+    font-size: 20px;
+    padding-left: 59px;
+    margin-left: 145px;
+    color: blue;
+    font-family: -webkit-pictograph;
+    text-shadow: 5px 4px 4px black;
+}
+
+a {
+    margin-left: 615px;
+    outline: none;
+    border: 1px solid midnightblue;
+    border-radius: 12px;
+    background: deeppink;
+    font-size: 20px;
+    color: springgreen;
+    text-decoration: none;
+    padding: 17px;
+    box-shadow: 1px 3px 9px #2d07ff;
+}
+
+a:hover {
+    background: #000000ad;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+h1 {
+    color: deeppink;
+    margin-left: 511px;
+    margin-top: 73px;
+    margin-bottom: 52px;
+    font-family: cursive;
+    text-shadow: 3px 6px 7px #3d0080;
+}
+
+.AAAA {
+    margin-top: 159px;
+}
+
+p#paragraph {
+    font-size: 28px;
+    color: #e30000;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 67px;
+    text-shadow: 0px 4px 11px black;
+}
